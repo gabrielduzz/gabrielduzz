@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <h1>Hello, I'm Gabriel dos Santos 👋</h1>
+  <h1>Hi there, I'm Gabriel dos Santos 👋</h1>
   <p>Computer Science Student | Back-end Enthusiast | Logic Challenges Lover</p>
   <img src="https://komarev.com/ghpvc/?username=gabrielduzz&color=green" alt="Profile views"/>
 </div>
@@ -18,7 +18,11 @@
 - 🎓 6th semester Computer Science student at UESB  
 - 💻 Back-end focus: Java (Spring), Python (Django), SQL (Postgres, SQLite)  
 - 🏅 Software Resident at ResTIC 36  
-- 🔍 Always exploring new technologies and software engineering best practices
+- 🔍 Always exploring new technologies and software engineering best practices  
+- 🌱 Lifelong learner, constantly broadening my horizons and skillset  
+- 🎯 Passionate about crafting clean, maintainable code and effective system architecture  
+- 🤝 Enjoy collaborating in teams and contributing to projects  
+- 🤖 Avid solver of logic puzzles and algorithmic challenges
 
 ---
 
