@@ -68,18 +68,21 @@
 
 ---
 
-## 🌐 Connect with Me
+
+<h2 align="left">🌐 Socials:</h2>
+
+###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gabriell-ds/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
+  <a href="mailto:gabrielsantos2501@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
 </div>
 
----
+###
 
 <div align="center">
   <sub>Made by Gabriel dos Santos</sub>
