@@ -42,6 +42,8 @@
 
 ---
 
+<!--
+
 ## 💡 Featured Projects
 
 ### [Bastião](https://github.com/gabrielduzz/Bastiao)
@@ -61,6 +63,8 @@
 - Neighbors table visualization interface
 
 ---
+
+-->
 
 ## 📊 GitHub Stats
 
