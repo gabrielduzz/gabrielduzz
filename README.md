@@ -15,7 +15,7 @@
 <img src="https://media1.giphy.com/media/B1CrvUCoMxhy8/giphy.gif" alt="Coding GIF" />
 
 ## 🚀 About Me
-- 🎓 6th semester Computer Science student at UESB  
+- 🎓 7th semester Computer Science student at UESB  
 - 💻 Back-end focus: Java (Spring), Python (Django), SQL (Postgres, SQLite)  
 - 🏅 Software Resident at ResTIC 36  
 - 🔍 Always exploring new technologies and software engineering best practices  
