@@ -15,8 +15,8 @@
 <img src="https://media1.giphy.com/media/B1CrvUCoMxhy8/giphy.gif" alt="Coding GIF" />
 
 ## 🚀 About Me
-- 🎓 7th semester Computer Science student at UESB  
-- 💻 Back-end focus: Java (Spring), Python (Django), SQL (Postgres, SQLite)  
+- 🎓 8th semester Computer Science student at UESB  
+- 💻 Back-end focus: Java (Spring), Python (Django, FastAPI), SQL (Postgres, MySQL)  
 - 🏅 Software Resident at ResTIC 36  
 - 🔍 Always exploring new technologies and software engineering best practices  
 - 🌱 Lifelong learner, constantly broadening my horizons and skillset  
@@ -41,30 +41,6 @@
 </div>
 
 ---
-
-<!--
-
-## 💡 Featured Projects
-
-### [Bastião](https://github.com/gabrielduzz/Bastiao)
-**Integrated Citizen Security Platform**  
-- Public safety service integration  
-- Real-time alerts & interactive maps  
-- 🏆 Hackathon: Innovative solutions
-
-### [CR7](https://github.com/gabrielduzz/cr7-robocode)
-**Robocode Bot**  
-- Implements Wave Surfing, GuessFactorTargeting & dynamic clustering  
-- Challenges: adaptive targeting & smart radar
-
-### [Routing Simulator](https://github.com/gabrielduzz/ospf-simulator)
-**Link-State Routing Study**  
-- Hello messages animation with JavaFX  
-- Neighbors table visualization interface
-
----
-
--->
 
 ## 📊 GitHub Stats
 
