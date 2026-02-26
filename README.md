@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Gabriel dos Santos 👋</h1>
-  <p>Computer Science Student | Back-end Enthusiast | Logic Challenges Lover</p>
+  <p>Computer Science Student | Back-end Enthusiast | Competitive Programmer</p>
   <img src="https://komarev.com/ghpvc/?username=gabrielduzz&color=green" alt="Profile views"/>
 </div>
 
