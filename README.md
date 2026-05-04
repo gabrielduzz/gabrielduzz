@@ -17,12 +17,13 @@
 ## 🚀 About Me
 - 🎓 8th semester Computer Science student at UESB  
 - 💻 Back-end focus: Java (Spring), Python (Django, FastAPI), SQL (Postgres, MySQL)  
-- 🏅 Software Resident at ResTIC 36  
+- 🏅 ICPC Contestant
+- 🤖 Avid solver of logic puzzles and algorithmic challenges
 - 🔍 Always exploring new technologies and software engineering best practices  
 - 🌱 Lifelong learner, constantly broadening my horizons and skillset  
 - 🎯 Passionate about crafting clean, maintainable code and effective system architecture  
 - 🤝 Enjoy collaborating in teams and contributing to projects  
-- 🤖 Avid solver of logic puzzles and algorithmic challenges
+
 
 ---
 
@@ -49,14 +50,20 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabrielduzz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:ds.gabriel.contato@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-  </a>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/gabrielduzz/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:ds.gabriel.contato@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
