@@ -7,12 +7,22 @@
 <div align="center">
   <h1>Hi there, I'm Gabriel dos Santos 👋</h1>
   <p>Computer Science Student | Back-end Enthusiast | Competitive Programmer</p>
-  <img src="https://komarev.com/ghpvc/?username=gabrielduzz&color=green" alt="Profile views"/>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=gabrielduzz&color=green" alt="Profile views"/>
+  </div>
+  <br>
+  
+  <a href="https://codeforces.com/profile/gabrielduzz" target="_blank">
+    <img src="https://cp-logo.vercel.app/codeforces/gabrielduzz" alt="Codeforces Rating" />
+  </a>
 </div>
 
 ---
 
-<img src="https://media1.giphy.com/media/B1CrvUCoMxhy8/giphy.gif" alt="Coding GIF" />
+<div align="center">
+  <img src="https://media1.giphy.com/media/B1CrvUCoMxhy8/giphy.gif" alt="Coding GIF"/>
+</div>
 
 ## 🚀 About Me
 - 🎓 8th semester Computer Science student at UESB  
@@ -39,7 +49,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Swagger-%23F7DF1E?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
 </div>
 
 
