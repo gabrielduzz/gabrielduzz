@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Gabriel dos Santos 👋</h1>
-  <p>Computer Science Student | Back-end Enthusiast | Competitive Programmer</p>
+  <p>Computer Science Student | Software Engineer | Competitive Programmer</p>
   
   <div>
     <img src="https://komarev.com/ghpvc/?username=gabrielduzz&color=green" alt="Profile views"/>
@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 - 🎓 8th semester Computer Science student at UESB  
-- 💻 Back-end focus: Java (Spring), Python (Django, FastAPI), SQL (Postgres, MySQL)  
+- 💻 Software Engineer
 - 🏅 ICPC Contestant
 - 🤖 Avid solver of logic puzzles and algorithmic challenges
 - 🔍 Always exploring new technologies and software engineering best practices  
